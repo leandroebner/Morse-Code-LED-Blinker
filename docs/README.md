@@ -1,6 +1,5 @@
 ---
-title: TBD PAGE
-description: TBD PAGE
+title: Home
 show_downloads: true
 ---
-# Landing Page
+### Open Source project to get familiar with the basics of soldering, electronics and programming.
