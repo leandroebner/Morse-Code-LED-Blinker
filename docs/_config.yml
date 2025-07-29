@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: Morse Code LED Blinker
-description: Open Source project to get familiar with the basics of soldering, electronics and programming.
+readme_index:
+  enabled:          true
+  remove_originals: true
+  with_frontmatter: true
