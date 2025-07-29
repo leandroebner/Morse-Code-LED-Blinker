@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Morse Code LED Blinker
-description: Designed for educational use, this minimalistic LED-based project offers an accessible and effective platform for learning the fundamentals of soldering, electronics, and programming. Originally developed for university workshops, its simplicity and modularity make it suitable for a wide range of educational settings. This project is licenced under the CERN-OHL-S-2.0 license.
+description: Designed for educational use, this minimalistic LED-based project offers an accessible and effective platform for learning the fundamentals of soldering, electronics, and programming. Originally developed for university workshops, its simplicity and modularity make it suitable for a wide range of educational settings. This project is licenced under the CERN Open Hardware Licence – Strongly Reciprocal, version 2.
 show_downloads: false
 readme_index:
   enabled:          true
