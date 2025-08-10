@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 // Define the pin for the LED
-#define LED_PIN 0
+#define LED_PIN 3
 
 // Define the Morse code timing (in milliseconds)
 #define DOT_DURATION 200
@@ -11,7 +11,7 @@
 #define WORD_GAP (DOT_DURATION * 7)
 
 // Predefined constant string to blink in Morse code
-const char MESSAGE[] = "HELLO";
+const char MESSAGE[] = "HELLO WORLD";
 
 // Function to blink a dot
 void blinkDot() {
