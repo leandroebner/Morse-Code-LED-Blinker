@@ -5,8 +5,8 @@
 
 // Define the Morse code timing (in milliseconds)
 #define DOT_DURATION 200
-#define DASH_DURATION (DOT_DURATION * 3)
 #define SYMBOL_GAP DOT_DURATION
+#define DASH_DURATION (DOT_DURATION * 3)
 #define LETTER_GAP (DOT_DURATION * 3)
 #define WORD_GAP (DOT_DURATION * 7)
 
