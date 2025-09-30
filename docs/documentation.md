@@ -2,6 +2,13 @@
 title: Documention
 description: Work in progress.
 ---
+# Arduino Hardware Package
+
+The following package was sucessfully tested and used to add board support for the ATtiny13a MCU in the Arduino IDE.
+```txt
+https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
+```
+At the time of writing, library version 2.5.1 was used with the Arduino IDE 2.3.6.
 
 # C++ Code
 Copy and paste the following code into the Arduino IDE:
