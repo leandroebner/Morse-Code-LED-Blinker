@@ -1,7 +1,9 @@
+// Morse Code LED Blinker Firmware
+// Leandro Ebner 2025
 #include <Arduino.h>
 
 // Define the pin for the LED
-// Use pin 3 for the provided circuit board
+// Use pin 3 for the provided Morse Code LED Blinker circuit board
 #define LED_PIN 3
 
 // Define the Morse Code timing (in milliseconds)
@@ -11,7 +13,7 @@
 #define LETTER_GAP (DOT_DURATION * 3)
 #define WORD_GAP (DOT_DURATION * 7)
 
-// Predefined constant string to blink in Morse Code
+// Predefined constant string to display in Morse Code 
 // YOU MAY NOT USE LOWERCASE LETTERS OR NUMBERS HERE 
 const char MESSAGE[] = "HELLO WORLD";
 
@@ -31,7 +33,7 @@ void blinkDash() {
   delay(SYMBOL_GAP);
 }
 
-// Function to blink a character in Morse code
+// Function to blink a character in Morse Code
 void blinkChar(char c) {
   switch (c) {
     case 'A': blinkDot();  blinkDash(); break;
@@ -69,7 +71,7 @@ void setup() {
   pinMode(LED_PIN, OUTPUT);
 }
 
-// Loop through each character in the message
+// Loop through each character in the message and add timings
 void loop() {
   for (int i = 0; MESSAGE[i] != '\0'; i++) {
     blinkChar(MESSAGE[i]);
