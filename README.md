@@ -7,7 +7,3 @@
 > [!WARNING]
 > This repository is a work in progress and subject to major changes and updates. The release of the project's source code is currently underway.
 
-## WHY2025
-
-Thanks for joining our workshop at WHY! We're trying to finalize all design files and a short instruction manual soon as a reference!
-If you have any questions during the duration of the camp, feel free to visit [Village:Frubar](https://wiki.why2025.org/Village:Frubar) or contact me via DECT 2002.
