@@ -1,4 +1,5 @@
 [![pages-build-deployment](https://github.com/leandroebner/Morse-Code-LED-Blinker/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/leandroebner/Morse-Code-LED-Blinker/actions/workflows/pages/pages-build-deployment)
+[![kicad](https://img.shields.io/badge/KiCad-9.0.0-blue)](https://www.kicad.org/)
 
 # Morse Code LED Blinker
 
