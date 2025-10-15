@@ -2,8 +2,7 @@
 
 <iframe 
   src="./bom.html"
-  width="100%"
-  height="70vh"
+  style="width=100%; height=100vh"
 ></iframe>
 
 
