@@ -1,6 +1,6 @@
 ---
 title: Documention
-description: Work in progress.
+description: Find more information about how to programm the MCLB here.
 ---
 # Arduino Hardware Package
 
