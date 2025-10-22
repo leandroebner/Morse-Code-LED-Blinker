@@ -1,18 +1,19 @@
 ---
 title: Documention
-description: Find more information about how to programm the MCLB here.
+description: Everything you need to know to set up your Morse Code LED Blinker.
 ---
-# Arduino Hardware Package
 
-The following package was sucessfully tested and used to add board support for the ATtiny13a MCU in the Arduino IDE.
+# Arduino IDE
+Download the latest Arduino IDE [here](https://www.arduino.cc/en/software/). Choose the right installer for your operating system and install the software.
+
+# Arduino Hardware Package
+In order to program your Morse Code LED Blinker, an additional board package must be installed to support the utilized microcontroller. Open the Arduino IDE, go to ```File``` and click on ```Preferences```. In the Tab ```Settings```, add the following URL to the section "Additional boards manager URLs":
 
 ```txt
 https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
 ```
-At the time of writing, library version 2.5.1 was used with the Arduino IDE 2.3.6, for more information about the installation process, please refer to [this documentation](https://github.com/MCUdude/MicroCore?tab=readme-ov-file#how-to-install).
 
 # C++ Code
-Copy and paste the following code into the Arduino IDE:
-
+Copy and paste the following code into the Arduino IDE. Navigate to the predefined string ("HELLO WORLD" by default) and edit it to your likings.
 {% gist f2d3c8d7c92c7b595ff7ab5da78a2490 %}
 
