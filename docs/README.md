@@ -13,5 +13,5 @@ This compact 4 cm × 4 cm PCB, powered by a CR2032 coin cell and driven by an AT
 
 | Hardware Version | Changelog                                          |
 | ---------------- | -------------------------------------------------- |
-| Revision 2       | Cosmetic changes, copper pour with thermal relifes |
+| Revision 2       | Cosmetic changes, copper pour with thermal reliefs |
 | Revision 1       | Initial hardware                                   |
