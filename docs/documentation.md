@@ -13,7 +13,7 @@ In order to program your Morse Code LED Blinker, an additional board package mus
 https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
 ```
 
-After saving your changes, open the ```Board Manager``` and search for "MicroCore" in the search bar. Install the lastest version of the package.
+After saving your changes, open the ```Board Manager``` and search for "MicroCore" in the search bar. Install the latest version of the package.
 
 # Programming Settings
 Make sure to adjust the following settings under ```Tools``` before flashing your Morse Code LED Blinker:
