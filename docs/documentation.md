@@ -22,7 +22,7 @@ Make sure to adjust the following settings under ```Tools``` before flashing you
 | ---------- | -------------------- |
 | BOD        | BOD disabled         |
 | Bootloader | No bootloader        |
-| Clock      | 9.6Mhz internal osc. |
+| Clock      | 9.6 MHz internal osc. |
 | EEPROM     | EEPROM retained      |
 
 # C++ Code
