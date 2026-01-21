@@ -1,5 +1,5 @@
 ---
-title: Documention
+title: Documentation
 description: Everything you need to know to set up your Morse Code LED Blinker.
 ---
 
